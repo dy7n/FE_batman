@@ -1,0 +1,43 @@
+h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+}
+h1{
+    text-align: center;
+    letter-spacing: .5rem ;
+    color: #005677;
+    background-color: #C4C4C4;
+}
+
+.logo {
+    text-align: center;
+}
+span {
+    font-weight: bold;
+}
+
+img {
+    text-align: center;
+}
+
+footer{
+    background-color: #005677;
+    ;
+}
+
+header {
+    background-color: #E6E6E6;
+}
+
+p{
+    color: white;
+    font-family: serif;
+    font-weight: bolder;
+}
+
+.social {
+    text-align: center;
+}
+li span {
+    font-style: italic;
+}
